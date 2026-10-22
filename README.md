@@ -1,21 +1,13 @@
-<<<<<<< HEAD
-# demo_flutter
+# Week 1 Mobile Programming
 
-A new Flutter project.
+### Persegi Panjang
+![Preview](screenshots/persegi_panjang.png)
 
-## Getting Started
+### Rata Rata Grade
+![Preview](screenshots/rata_rata_grade.png)
 
-This project is a starting point for a Flutter application.
+### Fizz Buzz
+![Preview](screenshots/fizz_buzz.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# W1_PemrogramanMobile_0047
->>>>>>> 3aadc5ca5e940d9dfbce3fdab3c006523cfae840
+### Class Mahasiswa
+![Preview](screenshots/class_mahasiswa.png)
